@@ -1,0 +1,10 @@
+.msg-template {
+    font-size: 0.6em;
+    margin: 3px;
+}
+
+.msg-container {
+    width: auto;
+    min-height: 300px;
+    max-height: 300px;
+}

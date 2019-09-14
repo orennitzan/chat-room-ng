@@ -4,3 +4,27 @@
 2019-09-14 18:40:31 | info | index.js - Validation of configurations and env variables succeeded.
 2019-09-14 18:40:31 | info | index.js - Requiring server.js to initialize the server.
 2019-09-14 18:40:32 | info | started on port: 3000
+2019-09-14 21:49:34 | debug | index.js - Starting.
+2019-09-14 21:49:34 | info | index.js - initiating.
+2019-09-14 21:49:34 | info | index.js - validating configurations.
+2019-09-14 21:49:34 | info | index.js - Validation of configurations and env variables succeeded.
+2019-09-14 21:49:34 | info | index.js - Requiring server.js to initialize the server.
+2019-09-14 21:49:34 | info | started on port: 3000
+2019-09-14 21:50:25 | debug | user connected!!!
+2019-09-14 21:50:25 | debug | sent???
+2019-09-14 21:50:32 | debug | lkj
+2019-09-14 21:51:28 | debug | user connected!!!
+2019-09-14 21:51:28 | debug | sent???
+2019-09-14 21:51:39 | debug | user connected!!!
+2019-09-14 21:51:39 | debug | sent???
+2019-09-14 21:51:52 | debug | user connected!!!
+2019-09-14 21:51:52 | debug | sent???
+2019-09-14 21:51:55 | debug | user connected!!!
+2019-09-14 21:51:55 | debug | sent???
+2019-09-14 21:52:16 | debug | user connected!!!
+2019-09-14 21:52:16 | debug | sent???
+2019-09-14 21:52:31 | debug | kjhkh
+2019-09-14 21:53:31 | debug | user connected!!!
+2019-09-14 21:53:31 | debug | sent???
+2019-09-14 21:53:32 | debug | user connected!!!
+2019-09-14 21:53:32 | debug | sent???

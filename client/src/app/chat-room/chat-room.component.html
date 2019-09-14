@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 offset-sm-3">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-default msg-container">
+                        <div #scrollToBottom class="overflow-auto card-block">
+                            <div *ngFor="let message of messages" class="msg-template">
+                                <div class="card card-primary">
+                                    <div class="card-block">
+                                        <p class="text-primary">{{message}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text btn btn-success" (click)="sendMessage()">Send</span>
+                        </div>
+                        <textarea class="form-control" [(ngModel)]="message" aria-label="Send"
+                            placeholder="Say something.." (keydown.enter)="onKeydown($event)"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

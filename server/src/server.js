@@ -12,8 +12,7 @@ const io = socketIO(server);
 const port = process.env.PORT || config.port;
 
 io.on('connection', (socket) => {
-    logger.debug('user connected');
-
+    logger.debug('user connected!!!');
     socket.on('client-message', (message) => {
         logger.debug(message);
         io.emit('server-message', message);
