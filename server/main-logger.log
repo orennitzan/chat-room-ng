@@ -1,0 +1,6 @@
+2019-09-14 18:40:31 | debug | index.js - Starting.
+2019-09-14 18:40:31 | info | index.js - initiating.
+2019-09-14 18:40:31 | info | index.js - validating configurations.
+2019-09-14 18:40:31 | info | index.js - Validation of configurations and env variables succeeded.
+2019-09-14 18:40:31 | info | index.js - Requiring server.js to initialize the server.
+2019-09-14 18:40:32 | info | started on port: 3000
